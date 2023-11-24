@@ -1,0 +1,32 @@
+@import '_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.bundle.scp.css';
+
+/* /Layout/NavMenu.razor.rz.scp.css */
+[b-itmnt0m7j1] .fluent-nav-icon {
+    padding-top: 5px;
+}
+/* /Pages/Minesweeper.razor.rz.scp.css */
+.cell[b-1g4bmhgvg2] {
+    background-color: #999;
+    font-size: 1rem;
+    text-align: center;
+    width: 1.5rem;
+    height: 1.5rem;
+    outline: none !important;
+    border: none;
+}
+
+    .cell.danger[b-1g4bmhgvg2] {
+        background-color: #ccc;
+    }
+
+    .cell.safe[b-1g4bmhgvg2] {
+        background-color: #fff;
+    }
+
+    .cell.mine[b-1g4bmhgvg2] {
+        background-color: darkred;
+    }
+
+.btn-primary[b-1g4bmhgvg2] {
+    margin-top: .5rem;
+}
