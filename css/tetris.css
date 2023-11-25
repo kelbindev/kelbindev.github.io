@@ -17,7 +17,7 @@
 
 .tetris-cell {
     display: table-cell;
-    background-color: #999;
+    background-color: #000000;
     width: 1.5rem;
     height: 1.5rem;
     border: solid 1px #242323;
@@ -125,7 +125,7 @@
     }
 
     100% {
-        background-color: #999
+        background-color: black
     }
 }
 
@@ -139,7 +139,7 @@
     }
 
     100% {
-        background-color: #999
+        background-color: black
     }
 }
 
@@ -153,6 +153,6 @@
     }
 
     100% {
-        background-color: #999
+        background-color: black
     }
 }
