@@ -1,20 +1,25 @@
 ﻿.tetris-container {
     display: table;
-    width: 240px;
+    width: auto;
     border: 10px solid #333;
+}
+
+.button-container {
+    padding-top:10px;
+    width: 100%;
 }
 
 .tetris-row {
     display: table-row;
-    height: 24px;
-    width: 240px;
+    height: 1.5rem;
+    width: auto;
 }
 
 .tetris-cell {
     display: table-cell;
     background-color: #999;
-    width: 24px;
-    height: 24px;
+    width: 1.5rem;
+    height: 1.5rem;
     border: solid 1px #242323;
 }
 

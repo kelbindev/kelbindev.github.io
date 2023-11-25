@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "KbBlazorGames",
   "resources": {
-    "hash": "sha256-Snt0/gaXD1r65sqRo0uRIByYczCfsPsc7dSIiCPq6dg=",
+    "hash": "sha256-P7eBkEqJ9lvkggysMB/SgvRgqNWX002/5RDt7skWjO4=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.n20w4vgsn9.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "KbBlazorGames.wasm": "sha256-bS2ULkOSNizniwNWGZ6aI5gw6b2yXUuuYhwDbk6xrmk=",
+      "KbBlazorGames.wasm": "sha256-4yfe3LIo71QxH9VIYGK+jgk2vy22+AOmoy+ueeOn3zY=",
       "LogicLayer.wasm": "sha256-yfHNAgDfnYwNaxG4anCQfMEgLdIw+GLLouWOIZRm2V4=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-8N18TWx20DIILrmmN6IBdUMhCUfHvmy0okWuToCyfm0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-FjxU7pYsaO1ZA/8DYDqjXLdY+L6elzBI7ZfPL31p4vQ=",
