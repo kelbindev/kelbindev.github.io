@@ -30,3 +30,16 @@
 .btn-primary[b-1g4bmhgvg2] {
     margin-top: .5rem;
 }
+/* /Pages/Snake.razor.rz.scp.css */
+.gameovermessage[b-6m77lbf9pg] {
+    margin-bottom: 1rem;
+}
+
+.controls[b-6m77lbf9pg] {
+    margin-top: 1rem;
+}
+
+    .controls button[b-6m77lbf9pg] {
+        margin-right: .5rem;
+        margin-bottom: .5rem;
+    }
