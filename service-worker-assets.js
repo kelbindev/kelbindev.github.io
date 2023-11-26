@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-3j43sn\/vAr\/i9nERp2B4usWDJoDb2Ry7mwCh\/EDE9JA=",
+      "hash": "sha256-zQMWDBqwDWC1ntKH28hE1\/YcqLKdOSjVF6sdokSQidg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-VVjQR7IEklaccwTQfTzecSQnfkPE\/HuMho+Bec0oIkk=",
+      "hash": "sha256-pKPSAYOofgEj23+QqZhRgQI\/yTFH+grpYvqSSmlk6mA=",
       "url": "_framework\/KbBlazorGames.wasm"
     },
     {
@@ -205,7 +205,7 @@
       "url": "_framework\/System.Runtime.Numerics.wasm"
     },
     {
-      "hash": "sha256-TYrKt73BY9tFSmVdmyfvu50xxSW4r3jQdtsrJZhd6Wc=",
+      "hash": "sha256-wcAqH\/i7LMe5nb29s\/2vuP98CMlrUbW9p7kfLcx1Cfw=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -253,7 +253,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-gAzBgBOXLcotlPLo4ApEVl+71C1sw+lO2coVI+Wt5JU=",
+      "hash": "sha256-qo7aQfP1oL\/R82ZUbHrK1tSNKAI8Oxb3RncV2O4jyXs=",
       "url": "css\/tetris.css"
     },
     {
@@ -449,5 +449,5 @@
       "url": "_content\/Microsoft.FluentUI.AspNetCore.Components\/Microsoft.FluentUI.AspNetCore.Components.lib.module.js"
     }
   ],
-  "version": "XBfw8Yed"
+  "version": "oEn7wVWy"
 };

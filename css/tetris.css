@@ -1,7 +1,7 @@
 ﻿.tetris-container {
     display: table;
     width: auto;
-    border: 10px solid #333;
+    border: 10px solid white;
 }
 
 .button-container {
@@ -17,10 +17,10 @@
 
 .tetris-cell {
     display: table-cell;
-    background-color: #000000;
+    background-color: #24292e;
     width: 1.5rem;
     height: 1.5rem;
-    border: solid 1px #242323;
+    border: solid 1px white;
 }
 
 .tetris-piece {
