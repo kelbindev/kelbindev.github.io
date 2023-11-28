@@ -1,6 +1,6 @@
 {
-  "name": "KbBlazorGames",
-  "short_name": "KbBlazorGames",
+  "name": "BlazorGames",
+  "short_name": "BlazorGames",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
