@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-K19XE2o\/15ix49r\/tbb5lrjZWfq4PVQjrk3Gm19wmaI=",
+      "hash": "sha256-UEHzWOaKBJGmqsCg\/BjN7BKggekRj15Rafp8CPEnfJI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-4hCHX4kd\/oBgpQvYMXTbQ6+akKmpPiivr\/eKMYCn59Q=",
+      "hash": "sha256-c1YeJ1skQwlloWZvONvJJ0gcuDDXg0cVq8QO6MvN3mQ=",
       "url": "_framework\/BlazorGames.wasm"
     },
     {
@@ -361,5 +361,5 @@
       "url": "sounds\/tetris-theme.ogg"
     }
   ],
-  "version": "U0xI+02A"
+  "version": "O9gBKMzz"
 };
